@@ -10,7 +10,7 @@
       "id": 2,
       "text": "Running Outdoors",
       "day": "March 6th at 08:00",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
