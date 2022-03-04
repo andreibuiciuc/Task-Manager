@@ -20,4 +20,5 @@ export class TaskService {
     const deleteUrl = `${this.apiUrl}/${task.id}`;
     return this.httpClient.delete<Task>(deleteUrl);
   }
+
 }
